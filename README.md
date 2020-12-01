@@ -1,6 +1,6 @@
 # asymmetrsiche-encryptie
 
-1.openssl_encrypt
+1.crypt
   openssl_public_encrypt
   openssl_private_encrypt
   openssl_encrypt

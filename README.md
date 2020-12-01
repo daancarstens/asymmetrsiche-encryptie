@@ -1,6 +1,9 @@
 # asymmetrsiche-encryptie
 
-1.
+1.openssl_encrypt
+  openssl_public_encrypt
+  openssl_private_encrypt
+  openssl_encrypt
 
 2. 245 bytes en 2048-bit key
 
